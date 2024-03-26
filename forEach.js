@@ -3,7 +3,7 @@
 let letter = ["a","b","c","a","a","b","d","d"]
 // let sum = 0;
 let count = {}
-
+console.log(count["a"])
 // defind function outside forEach
 // arr.forEach(one)
 
